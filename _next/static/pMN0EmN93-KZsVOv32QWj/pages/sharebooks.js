@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{"9x//":function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/sharebooks",function(){return w("X2+k")}])},"X2+k":function(n,o){}},[["9x//",1]]]);
