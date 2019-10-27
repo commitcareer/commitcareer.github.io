@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{"Px+Q":function(n,w,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/kitchenlive",function(){return i("gIn8")}])},gIn8:function(n,w){}},[["Px+Q",1]]]);
