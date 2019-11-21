@@ -21607,7 +21607,7 @@ function Index() {
       borderRadius: 5
     },
     width: 185,
-    src: "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/cd/6d/d1/cd6dd1a3-b52d-e6c1-5ced-dc5a51ba5e40/mzl.hstfhsdf.png/0x0ss-P3.jpg",
+    src: "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/84/52/f7845265-7099-ce79-e3ac-4e44c7a96191/pr_source.png/0x0ss-P3.jpg",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 90
